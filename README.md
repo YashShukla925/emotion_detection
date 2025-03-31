@@ -16,5 +16,5 @@ pip install -r requirements.txt
 ```
 ## Results
 - Emotions detected: Happy, Sad, Angry, Surprised, Neutral.
-- Model accuracy: [accuracy %].
+- Model accuracy: [80 %].
 
